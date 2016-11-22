@@ -22,7 +22,7 @@
 	</li>
 </ol>
 
-####Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub.
+####Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á lala
 
-####Verkefnaskil á Innu:  Skilaðu tengli á GitHub geymsluna þína í öllum áföngunum sem eru með hópverkefnið. 
+####Verkefnaskil á Innu:  Skilaðu tengli á GitHub geymsluna þína í öllum áföngunum sem eru með lala
 
